@@ -77,6 +77,29 @@ header .charnum {
     -webkit-text-stroke: 1px black;
 }
 
+article .candidate_banner img {
+    width: 100%;
+}
+
+article .candidate_link {
+    margin: 30px;
+}
+
+article .candidate_link a {
+    text-decoration: none;
+    color: white;
+    background-color:#0B68B3;
+    padding: 15px;
+    border-radius: 10px;
+    line-height: 180%;
+}
+
+article .candidate_link a img {
+    width: 15px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
 nav {
     margin-top: 5px;
     margin-bottom: 5px;
